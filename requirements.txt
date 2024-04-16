@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+tabula-py
+pandas
+sqlalchemy
+pyodbc
+PyPDF2

@@ -1,0 +1,2714 @@
+([('main.exe', 'D:\\Prueba Virtual\\build\\main\\main.exe', 'EXECUTABLE'),
+  ('python312.dll',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\python312.dll',
+   'BINARY'),
+  ('select.pyd',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('pyodbc.cp312-win_amd64.pyd',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pyodbc.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\resultproxy.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\sqlalchemy\\cyextension\\resultproxy.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\util.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\sqlalchemy\\cyextension\\util.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\processors.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\sqlalchemy\\cyextension\\processors.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\immutabledict.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\sqlalchemy\\cyextension\\immutabledict.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\collections.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\sqlalchemy\\cyextension\\collections.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('greenlet\\_greenlet.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\greenlet\\_greenlet.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('_sqlite3.pyd',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\writers.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\writers.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\window\\indexers.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\window\\indexers.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\window\\aggregations.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\window\\aggregations.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\vectorized.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\vectorized.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\tzconversion.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\tzconversion.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timezones.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timezones.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timestamps.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timestamps.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timedeltas.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timedeltas.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\strptime.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\strptime.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\period.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\period.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\parsing.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\parsing.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\offsets.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\offsets.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\np_datetime.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\np_datetime.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\nattype.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\nattype.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\fields.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\fields.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\dtypes.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\dtypes.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\conversion.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\conversion.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\ccalendar.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\ccalendar.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\base.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\base.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslib.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\tslib.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\testing.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\testing.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\sparse.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\sparse.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\sas.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\sas.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\reshape.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\reshape.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\properties.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\properties.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\parsers.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\parsers.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\pandas_parser.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\pandas_parser.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\pandas_datetime.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\pandas_datetime.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\ops_dispatch.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\ops_dispatch.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\ops.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\ops.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\missing.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\missing.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\lib.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\lib.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\json.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\json.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\join.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\join.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\interval.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\interval.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\internals.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\internals.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\indexing.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\indexing.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\index.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\index.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\hashtable.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\hashtable.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\hashing.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\hashing.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\groupby.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\groupby.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\byteswap.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\byteswap.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\arrays.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\arrays.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\algos.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\_libs\\algos.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_umath.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\numpy\\core\\_multiarray_umath.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_tests.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\numpy\\core\\_multiarray_tests.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\numpy\\random\\mtrand.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\numpy\\random\\_sfc64.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\numpy\\random\\_philox.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\numpy\\random\\_pcg64.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\numpy\\random\\_mt19937.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\numpy\\random\\bit_generator.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\numpy\\random\\_generator.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\numpy\\random\\_bounded_integers.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\numpy\\random\\_common.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_internal.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\numpy\\fft\\_pocketfft_internal.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('_jpype.cp312-win_amd64.pyd',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\_jpype.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pydantic_core\\_pydantic_core.cp312-win_amd64.pyd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pydantic_core\\_pydantic_core.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('sqlite3.dll',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\sqlite3.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\Yamikz\\AppData\\Local\\Programs\\Python\\Python312\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('pandas.libs\\msvcp140-ef6047a69b174ada5cb2eff1d2bc9a62.dll',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas.libs\\msvcp140-ef6047a69b174ada5cb2eff1d2bc9a62.dll',
+   'BINARY'),
+  ('numpy.libs\\libopenblas64__v0.3.23-293-gc2f4bdbb-gcc_10_3_0-2bde3a66a51006b2b53eb373ff767a3f.dll',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\numpy.libs\\libopenblas64__v0.3.23-293-gc2f4bdbb-gcc_10_3_0-2bde3a66a51006b2b53eb373ff767a3f.dll',
+   'BINARY'),
+  ('MSVCP140.dll', 'C:\\Windows\\system32\\MSVCP140.dll', 'BINARY'),
+  ('tabula\\tabula-1.0.5-jar-with-dependencies.jar',
+   'D:\\Prueba Virtual\\tabula\\tabula-1.0.5-jar-with-dependencies.jar',
+   'DATA'),
+  ('base_library.zip',
+   'D:\\Prueba Virtual\\build\\main\\base_library.zip',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex.tpl',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html.tpl',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html_table.tpl',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html_table.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex_longtable.tpl',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex_longtable.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex_table.tpl',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex_table.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html_style.tpl',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html_style.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\string.tpl',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\string.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chungking',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chungking',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kamchatka',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kamchatka',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT-0',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Nicosia',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Thomas',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Thomas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hovd',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hovd',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jerusalem',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jerusalem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belem',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Belem',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atka',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Atka',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Regina',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Regina',
+   'DATA'),
+  ('pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Cuba',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Cuba',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Detroit',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Detroit',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guam',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guam',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Noronha',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Noronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nome',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Gibraltar',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Gibraltar',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Antigua',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Antigua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Melbourne',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Melbourne',
+   'DATA'),
+  ('pytz\\zoneinfo\\EET',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\EET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ljubljana',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ljubljana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mayotte',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mayotte',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bamako',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bamako',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Chagos',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Chagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Atlantic',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Atlantic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rainy_River',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rainy_River',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmera',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmera',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Timbuktu',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Timbuktu',
+   'DATA'),
+  ('pytz\\zoneinfo\\HST',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\HST',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chita',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chita',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Panama',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Panama',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Luanda',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Luanda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Samoa',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\NZ',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maseru',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maseru',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Mountain',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'DATA'),
+  ('pytz\\zoneinfo\\UTC',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Prague',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Prague',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Whitehorse',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Whitehorse',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lindeman',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lindeman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kirov',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kirov',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Khandyga',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Khandyga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Marquesas',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Marquesas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'DATA'),
+  ('pytz\\zoneinfo\\WET',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\WET',
+   'DATA'),
+  ('pytz\\zoneinfo\\MET',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\MET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vladivostok',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vladivostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Syowa',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Syowa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Tasmania',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Tasmania',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ciudad_Juarez',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ciudad_Juarez',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Gambier',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Gambier',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST5EDT',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\EST5EDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Acre',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mogadishu',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mogadishu',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Samoa',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kinshasa',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kinshasa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Turkey',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Turkey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tarawa',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tarawa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belgrade',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belgrade',
+   'DATA'),
+  ('pytz\\zoneinfo\\Singapore',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-7',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-7',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\West',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\Kwajalein',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\GB',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Coral_Harbour',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Coral_Harbour',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Caracas',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Caracas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baku',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baku',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Kerguelen',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Kerguelen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Funafuti',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Funafuti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bangkok',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bangkok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rio_Branco',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rio_Branco',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\London',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\London',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tomsk',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tomsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-2',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-2',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Libreville',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Libreville',
+   'DATA'),
+  ('pytz\\zoneinfo\\leapseconds',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\leapseconds',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Stanley',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Stanley',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Majuro',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Majuro',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Magadan',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Magadan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+5',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+5',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Greenwich',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Riga',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Riga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iran',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Iran',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port_of_Spain',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Port_of_Spain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-10',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-10',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Goose_Bay',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Goose_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guayaquil',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guayaquil',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Louisville',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Makassar',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Makassar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Luxembourg',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Luxembourg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dakar',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dakar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Eastern',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kyiv',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kyiv',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chicago',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Chicago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Minsk',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Minsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Aruba',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Aruba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zurich',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zurich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lome',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Eastern',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\NSW',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\NSW',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\EasterIsland',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Chile\\EasterIsland',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ojinaga',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ojinaga',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\MST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Cocos',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Cocos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kathmandu',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kathmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zagreb',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zagreb',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grand_Turk',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Grand_Turk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Sydney',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Sydney',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tegucigalpa',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tegucigalpa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Davis',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Davis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Famagusta',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Famagusta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Niamey',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Niamey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tirane',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tirane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Mariehamn',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Mariehamn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Zulu',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nassau',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nassau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Iqaluit',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Iqaluit',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Guernsey',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Guernsey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tokyo',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tokyo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port-au-Prince',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Port-au-Prince',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+11',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+11',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Pacific',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Danmarkshavn',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Danmarkshavn',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mauritius',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mauritius',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Busingen',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Busingen',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Johns',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Johns',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Merida',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Merida',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hebron',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hebron',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jujuy',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Jujuy',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kashgar',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kashgar',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Oslo',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Oslo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayenne',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cayenne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Muscat',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Muscat',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kralendijk',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kralendijk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Riyadh',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Riyadh',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\ACT',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\ACT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Rothera',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Rothera',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dacca',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dacca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Podgorica',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Podgorica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dubai',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dubai',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sitka',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Sitka',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Maceio',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Maceio',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wallis',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wallis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ndjamena',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ndjamena',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Rangoon',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Rangoon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Karachi',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Karachi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Darwin',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Darwin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+0',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-3',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-3',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Punta_Arenas',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Punta_Arenas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montserrat',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montserrat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Moscow',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Moscow',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\General',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\General',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Manila',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Manila',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-1',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-1',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Pacific',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kanton',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kanton',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Campo_Grande',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Campo_Grande',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimphu',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimphu',
+   'DATA'),
+  ('pytz\\zoneinfo\\CST6CDT',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\CST6CDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Hobart',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Hobart',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chongqing',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chongqing',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Glace_Bay',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Glace_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Istanbul',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Omsk',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Omsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vaduz',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vaduz',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tallinn',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tallinn',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Scoresbysund',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Scoresbysund',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\East-Indiana',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\East-Indiana',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Aleutian',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Aleutian',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bogota',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bogota',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+9',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+9',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lagos',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Denver',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Denver',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nipigon',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nipigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Urumqi',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Urumqi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-8',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-8',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yakutsk',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yakutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UCT',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT0',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nouakchott',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nouakchott',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashgabat',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashgabat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Efate',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Efate',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Curacao',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Curacao',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Los_Angeles',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Los_Angeles',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Dublin',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Dublin',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Vancouver',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Vancouver',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nuuk',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kolkata',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kolkata',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Yukon',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Yukon',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Michigan',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Michigan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson_Creek',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson_Creek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Mountain',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Accra',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Accra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tahiti',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tahiti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dhaka',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dhaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montevideo',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montevideo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Djibouti',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Djibouti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Christmas',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Christmas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Managua',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Managua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dili',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dili',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Helsinki',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Helsinki',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Madeira',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Madeira',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Greenwich',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Hongkong',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Hongkong',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anchorage',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Anchorage',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Beirut',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Beirut',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Brisbane',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Brisbane',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB-Eire',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\GB-Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Currie',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Currie',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jayapura',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jayapura',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Norfolk',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Norfolk',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\PRC',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\PRC',
+   'DATA'),
+  ('pytz\\zoneinfo\\iso3166.tab',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\iso3166.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Barnaul',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Barnaul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Casey',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Casey',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fortaleza',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fortaleza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Universal',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Athens',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Athens',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Atyrau',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Atyrau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santiago',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santiago',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Monterrey',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Monterrey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vientiane',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vientiane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Istanbul',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayman',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cayman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Singapore',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\South',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\South',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bujumbura',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bujumbura',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jamaica',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Palau',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Palau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montreal',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montreal',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Araguaina',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Araguaina',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kampala',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kampala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Almaty',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Almaty',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Vostok',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Vostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Reunion',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Reunion',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ-CHAT',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\NZ-CHAT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anguilla',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Anguilla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Abidjan',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Abidjan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Astrakhan',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Astrakhan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chihuahua',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Chihuahua',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Vincent',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Vincent',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\New_York',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\New_York',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'DATA'),
+  ('pytz\\zoneinfo\\Portugal',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Portugal',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Central',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macau',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Freetown',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Freetown',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Conakry',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Conakry',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cancun',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cancun',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Buenos_Aires',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santo_Domingo',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santo_Domingo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Paramaribo',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Paramaribo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Edmonton',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Edmonton',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Johnston',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Johnston',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cuiaba',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cuiaba',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mazatlan',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mazatlan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuwait',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuwait',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Banjul',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Banjul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Gaborone',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Gaborone',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Niue',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Niue',
+   'DATA'),
+  ('pytz\\zoneinfo\\UCT',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belize',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Belize',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\Continental',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Chile\\Continental',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Winnipeg',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Winnipeg',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lima',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Lima',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Johannesburg',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Johannesburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Havana',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Havana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-11',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-11',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guatemala',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guatemala',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Manaus',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Manaus',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\La_Paz',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\La_Paz',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Arizona',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Arizona',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Newfoundland',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Newfoundland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Velho',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Velho',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Amsterdam',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Amsterdam',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Miquelon',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Miquelon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tiraspol',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tiraspol',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iceland',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Iceland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Douala',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Douala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Seoul',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Seoul',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Matamoros',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Matamoros',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ensenada',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ensenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mbabane',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mbabane',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Nelson',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Nelson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Libya',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Libya',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Auckland',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Auckland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtobe',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtobe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Adak',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Adak',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\EST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nairobi',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nairobi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Gaza',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Gaza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Budapest',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Budapest',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Troll',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Troll',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Halifax',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Halifax',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Yancowinna',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Yancowinna',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Katmandu',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Katmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Blantyre',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Blantyre',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thule',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Thule',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sofia',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sofia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cordoba',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Malabo',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Malabo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Taipei',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Taipei',
+   'DATA'),
+  ('pytz\\zoneinfo\\Universal',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bishkek',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bishkek',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tijuana',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tijuana',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Wayne',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Wayne',
+   'DATA'),
+  ('pytz\\zoneinfo\\PST8PDT',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\PST8PDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Shiprock',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Shiprock',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Brussels',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Brussels',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-9',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-9',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Victoria',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Victoria',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santarem',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santarem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Stockholm',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Stockholm',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Harare',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Harare',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Metlakatla',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Metlakatla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Samarkand',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Samarkand',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Inuvik',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Inuvik',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Madrid',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Madrid',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boise',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Boise',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Sakhalin',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Sakhalin',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone1970.tab',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\zone1970.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tripoli',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tripoli',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Nauru',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Nauru',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jakarta',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jakarta',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bangui',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bangui',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Godthab',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Godthab',
+   'DATA'),
+  ('pytz\\zoneinfo\\CET',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\CET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maputo',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maputo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ceuta',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ceuta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Azores',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Azores',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Mawson',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Mawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Marigot',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Marigot',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Palmer',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Palmer',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Creston',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Creston',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Resolute',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Resolute',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yerevan',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yerevan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+2',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+2',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Warsaw',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Warsaw',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+12',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+12',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indianapolis',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+3',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+3',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baghdad',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baghdad',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sarajevo',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sarajevo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Barthelemy',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Barthelemy',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vilnius',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vilnius',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Rome',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Rome',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Calcutta',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Calcutta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wake',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wake',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-5',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-5',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Alaska',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Alaska',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Canary',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Canary',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-4',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-4',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROK',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\ROK',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yangon',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yangon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Saratov',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Saratov',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macao',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macao',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Brunei',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Brunei',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Menominee',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Menominee',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone.tab',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\zone.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimbu',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimbu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Damascus',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Damascus',
+   'DATA'),
+  ('pytz\\zoneinfo\\Israel',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Israel',
+   'DATA'),
+  ('pytz\\zoneinfo\\Jamaica',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faroe',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-12',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-12',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+1',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+1',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Kitts',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Kitts',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-6',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-6',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Eirunepe',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Eirunepe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Lucia',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Lucia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pontianak',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pontianak',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Queensland',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Queensland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Navajo',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Navajo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Virgin',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Virgin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Brazzaville',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Brazzaville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\Acre',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Malta',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Malta',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST7MDT',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\MST7MDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qatar',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Catamarca',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Monrovia',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Monrovia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kigali',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kigali',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guyana',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guyana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chuuk',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Khartoum',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Khartoum',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Simferopol',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Simferopol',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Copenhagen',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Copenhagen',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lower_Princes',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Lower_Princes',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bahrain',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bahrain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dushanbe',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dushanbe',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Indiana-Starke',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Indiana-Starke',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atikokan',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Atikokan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qostanay',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qostanay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Berlin',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Berlin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Juba',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Juba',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-13',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-13',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dominica',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dominica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Oral',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Oral',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmara',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmara',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thunder_Bay',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Thunder_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Bougainville',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Bougainville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Monaco',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Monaco',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Truk',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Truk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Hermosillo',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Hermosillo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Japan',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Japan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Moncton',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Moncton',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\San_Marino',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\San_Marino',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuching',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuching',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Knox_IN',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Knox_IN',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+8',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+8',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bissau',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bissau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kabul',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kabul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Amman',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Amman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Antananarivo',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Antananarivo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Asuncion',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Asuncion',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Canberra',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Canberra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT0',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\El_Salvador',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\El_Salvador',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Honolulu',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Honolulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Eucla',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Eucla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+4',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+4',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Galapagos',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Galapagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mexico_City',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mexico_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belfast',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belfast',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yakutat',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Yakutat',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Hawaii',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Hawaii',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Barbados',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Barbados',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Easter',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Easter',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Phoenix',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Phoenix',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Chisinau',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Chisinau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Algiers',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Algiers',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kosrae',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kosrae',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Pangnirtung',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Pangnirtung',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Cairo',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Cairo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Saipan',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Saipan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Zulu',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Toronto',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Toronto',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UTC',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tashkent',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tashkent',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Perth',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Perth',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Juneau',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Juneau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grenada',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Grenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lusaka',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lusaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Jersey',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Jersey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+7',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+7',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Recife',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Recife',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Anadyr',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Anadyr',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\LHI',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\LHI',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Windhoek',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Windhoek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tunis',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tunis',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guadeloupe',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guadeloupe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vatican',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vatican',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santa_Isabel',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santa_Isabel',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Comoro',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Comoro',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bucharest',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bucharest',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tehran',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tehran',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bratislava',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bratislava',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rosario',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rosario',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Martinique',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Martinique',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kiev',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kiev',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtau',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Maldives',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Maldives',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Volgograd',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Volgograd',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Harbin',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Harbin',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Nicosia',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aden',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aden',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Yap',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Yap',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Choibalsan',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Choibalsan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Saigon',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Saigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Casablanca',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Casablanca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Ponape',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Ponape',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yellowknife',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Yellowknife',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\North',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\North',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Samara',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Samara',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sao_Paulo',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Sao_Paulo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Egypt',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Egypt',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Costa_Rica',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Costa_Rica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\tzdata.zi',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\tzdata.zi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'DATA'),
+  ('pytz\\zoneinfo\\zonenow.tab',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\zonenow.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-14',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-14',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tbilisi',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tbilisi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Andorra',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Andorra',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mendoza',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+10',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+10',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Enderbury',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Enderbury',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Apia',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Apia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Puerto_Rico',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Puerto_Rico',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Irkutsk',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Irkutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boa_Vista',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Boa_Vista',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaSur',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaSur',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tortola',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tortola',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROC',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\ROC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fiji',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fiji',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\East',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\East',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Midway',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Midway',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Paris',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Paris',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-0',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\West',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+6',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+6',
+   'DATA'),
+  ('pytz\\zoneinfo\\W-SU',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\W-SU',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Lisbon',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Lisbon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Skopje',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Skopje',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Shanghai',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Shanghai',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Swift_Current',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Swift_Current',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mahe',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mahe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Eire',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chatham',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chatham',
+   'DATA'),
+  ('pytz\\zoneinfo\\Poland',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Poland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vienna',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vienna',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Colombo',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Colombo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Central',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\Factory',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Factory',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Adelaide',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Adelaide',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pyongyang',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pyongyang',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT+0',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Noumea',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Noumea',
+   'DATA'),
+  ('org.jpype.jar',
+   'D:\\Prueba Virtual\\myenv\\Lib\\site-packages\\org.jpype.jar',
+   'DATA'),
+  ('tabula_py-2.9.0.dist-info\\REQUESTED',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\tabula_py-2.9.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('tabula_py-2.9.0.dist-info\\LICENSE',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\tabula_py-2.9.0.dist-info\\LICENSE',
+   'DATA'),
+  ('tabula_py-2.9.0.dist-info\\top_level.txt',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\tabula_py-2.9.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('tabula_py-2.9.0.dist-info\\RECORD',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\tabula_py-2.9.0.dist-info\\RECORD',
+   'DATA'),
+  ('tabula_py-2.9.0.dist-info\\WHEEL',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\tabula_py-2.9.0.dist-info\\WHEEL',
+   'DATA'),
+  ('tabula_py-2.9.0.dist-info\\METADATA',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\tabula_py-2.9.0.dist-info\\METADATA',
+   'DATA'),
+  ('tabula_py-2.9.0.dist-info\\INSTALLER',
+   'D:\\Prueba '
+   'Virtual\\myenv\\Lib\\site-packages\\tabula_py-2.9.0.dist-info\\INSTALLER',
+   'DATA')],)
